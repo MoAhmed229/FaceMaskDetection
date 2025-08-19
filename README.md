@@ -1,4 +1,4 @@
-# Face Mask Detection using CNN 😷🖼
+# Face Mask Detection using CNN 
 
 ## 📌 Overview
 This project implements a Convolutional Neural Network (CNN) model to automatically detect whether a person is wearing a face mask or not. The project is built using Python and deep learning libraries, and can be extended for real-time applications.
